@@ -1,4 +1,3 @@
-#git_course
+**#course**
 
-training on GIT
-##project_notes
+##training on GIT
